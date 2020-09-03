@@ -6,7 +6,7 @@ The CARPP problem aims to simultaneously assign consultants to clients and deter
 In the "data" folder, there are 100 sythetic instances. The sythetic instances are randomly generated based on the real-life data. How the synthetic data are generated can be found in our paper named consultant assignment and routing problem with priority. The 100 instances are divided into three categraies, i.e. "S", "M", and "L" based on the number of clusters. The real-life data is hold to protect the firm's privacy. 
 
 ## solution
-MILP formulation, RMIP algorithm and MNSA algorithm have been used to solve the CARPP problem. The results can be found in the "solution" folder.
+MILP formulation, RMIP algorithm and MNSA algorithm have been used to solve the CARPP problem. The results can be found in the "solutions" folder.
 
 ## formulation scale
 The number of binary variables, integer variables, and constraints for each instance is listed in the WORD file "countVars.docx".  
