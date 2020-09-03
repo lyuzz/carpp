@@ -8,7 +8,7 @@ In the "data" folder, there are 100 sythetic instances. The sythetic instances a
 ## solution
 MILP formulation, RMIP algorithm and MNSA algorithm have been used to solve the CARPP problem. The results can be found in the "solution" folder.
 
-## number of variables
+## formulation scale
 The number of binary variables, integer variables, and constraints for each instance is listed in the WORD file "countVars.docx".  
 
 ## paper URL
