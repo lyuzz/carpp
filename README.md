@@ -12,4 +12,4 @@ MILP formulation, RMIP algorithm and MNSA algorithm have been used to solve the 
 The number of binary variables, integer variables, and constraints for each instance is listed in the WORD file "countVars.docx".  
 
 ## paper URL
-To be published
+(https://www.sciencedirect.com/science/article/pii/S0360835220306069)
